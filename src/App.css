@@ -1,0 +1,12 @@
+.Info {
+  height: 500px;
+  width: 450px;
+  border: 8px solid #5103fa; 
+  border-radius: 40px; 
+  padding: 20px; 
+  margin: 20px; 
+  background-color: #ba8ed0;
+}
+h1 {
+ color:#5103fa
+}
